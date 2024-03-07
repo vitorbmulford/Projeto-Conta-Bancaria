@@ -1,0 +1,9 @@
+{
+    "name": "bytebank",
+    "version": "1.0.0",
+    "description": "projet of bytebank for your clients",
+    "main": "index.js",
+    "author": "Vitor",
+    "license": "ISC",
+    "type": "module"
+  }
