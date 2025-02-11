@@ -67,9 +67,6 @@ Se você deseja contribuir para este projeto, siga estes passos:
     Envie suas alterações para seu repositório forked.
     Envie um pull request para o repositório original.
 
-Licença
-
-Este projeto está licenciado sob a Licença MIT.
 
 Testes
 
