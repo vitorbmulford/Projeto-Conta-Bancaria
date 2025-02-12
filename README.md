@@ -8,8 +8,7 @@ Para utilizar este projeto, você precisará ter o Node.js instalado em seu sist
 
 Após instalar o Node.js, clone o repositório e execute o projeto:
 
-git clone https://github.com/seu-usuario/sistema-de-gerenciamento-de-contas-bancarias.git
-cd sistema-de-gerenciamento-de-contas-bancarias
+git clone https://github.com/vitorbmulford/Projeto-Conta-Bancaria
 node index.js
 
 Uso
