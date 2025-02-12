@@ -57,17 +57,6 @@ A classe ContaCorrente possui as seguintes propriedades e métodos:
     depositar(valor): Um método que permite depositar fundos na conta bancária.
     transferir(valor, conta): Um método que permite transferir fundos de uma conta bancária para outra.
 
-Contribuição
-
-Se você deseja contribuir para este projeto, siga estes passos:
-
-    Faça um fork do repositório.
-    Crie uma nova branch para sua feature ou correção de bug.
-    Faça suas alterações e commit.
-    Envie suas alterações para seu repositório forked.
-    Envie um pull request para o repositório original.
-
-
 Testes
 
 Para executar os testes deste projeto, você pode usar o seguinte comando:
